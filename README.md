@@ -6,5 +6,5 @@ Hola, me llamo **Osvaldo**, tengo 32 años y estoy cursando la carrera de **Tecn
 
 Desde chico me gustan los videojuegos y la computación, aunque recien pude tener mi primera pc en 2010.
 
-![Galán Osvaldo](./assets/foto.jpeg)
+![Galán Osvaldo](foto.jpeg)
 
