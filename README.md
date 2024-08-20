@@ -13,6 +13,6 @@ Desde chico me gustan los videojuegos y la computación, aunque recien pude tene
 - El anime y el manga
 - Los videojuegos
 - Cocinar y aprender recetas nuevas
--Leer sobre todo novelas de terror y fantasia
+- Leer sobre todo novelas de terror y fantasia
 
 Espero en un futuro poder recibirme y trabajar de esto.
